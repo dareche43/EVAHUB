@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evahub.WebClient", "evahub.WebClient\evahub.WebClient.csproj", "{4EF2A8AB-9096-42E9-8CC2-1B8F4CC99577}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF2A8AB-9096-42E9-8CC2-1B8F4CC99577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF2A8AB-9096-42E9-8CC2-1B8F4CC99577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF2A8AB-9096-42E9-8CC2-1B8F4CC99577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF2A8AB-9096-42E9-8CC2-1B8F4CC99577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
